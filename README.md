@@ -1,3 +1,8 @@
+## What is Ghosty
+Ghosty is a Linux injector for different types for external clients AND a silent mod folder editor
+
+=================
+
 ## Compiling
 
 **Note:** _Do NOT download or compile as the root user._
